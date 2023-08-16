@@ -415,16 +415,7 @@ Quieres saber más toma el curso completo en [https://platzi.com/clases/aprender
 
 # 20. Sobre el autor
 
-![IMG_0380.jpg](IMG_0380.jpg)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-### Fernando Sánchez Mejía
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
 
-### ITIL Fundamentals v4
-
-### Consultor de TI - Risk Advisory - Deloitte
-
-# Redes Sociales
-
-![Untitled](Untitled%208.png)
-
-[Fernando Sanchez Mejia - Consultor de TI Assurance - Risk Advisory - Deloitte | LinkedIn](http://linkedin.com/in/fernando-sanchez-mejia)
